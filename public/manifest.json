@@ -3,6 +3,7 @@
   "description": "My extension app made by React",
   "version": "0.0.1",
   "manifest_version": 3,
+  "permissions": ["storage"],
   "action": {
     "default_popup": "index.html"
   }
